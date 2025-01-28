@@ -44,7 +44,8 @@ Delayed food system input mod for Littleington University game
   - **foodDuration**: Duration in seconds for food changes to apply.
   - **drinkDuration**: Duration in seconds for drink changes to apply.
 
-You can modify these values in the `DelayedFoodSystemConfig.json` file to suit your preferences.
+   You can modify these values in the `DelayedFoodSystemConfig.json` file to suit your preferences.
+   
 ---
 
 ## Development Setup
